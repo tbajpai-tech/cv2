@@ -1,0 +1,15 @@
+section,in_resume,title,institution,location,start,end,description_1,description_2,description_3
+education,TRUE,Bachelor of Science in Data Science,Arizona State University,Tempe AZ,2018,2022,Graduated with honors,Coursework in R and Python,Machine learning projects
+education,TRUE,Master of Science in Data Science,Arizona State University,Tempe AZ,2022,2024,Focus on predictive modeling,Machine learning,Interactive visualization
+positions,TRUE,Graduate Research Assistant,Arizona State University,Tempe AZ,2023,2024,Led research on traffic safety analytics,Developed Shiny dashboards for city planning,Collaborated with faculty on publications
+positions,TRUE,Data Scientist Intern,City of Tempe,Tempe AZ,2022,2023,Created predictive crash models using logistic regression,Visualized crash maps with Leaflet,Presented results to city officials
+positions,TRUE,Teaching Assistant,School of Computing & AI,Tempe AZ,2020,2022,Supported students in R programming,Led labs on statistical methods,Graded assignments and mentored students
+projects,TRUE,Capstone Project: Crash Data Dashboard,Arizona State University,Tempe AZ,2022,2022,Built interactive Shiny dashboard for traffic accident analysis,Integrated Leaflet maps,Improved accessibility for planners
+projects,TRUE,Hackathon Project: Community Mobility Insights,Data for Good Hackathon,Phoenix AZ,2021,2021,Designed real-time public transit data visualizer,Awarded 2nd place,Collaborated with 4-person team
+volunteer,TRUE,Volunteer Data Analyst,Community Health Org,Tempe AZ,2021,2022,Analyzed vaccination outreach data,Improved data collection workflows,Created summary reports for stakeholders
+volunteer,TRUE,STEM Outreach Mentor,High School Data Science Program,Tempe AZ,2019,2021,Mentored students in R and Python,Developed teaching materials,Organized coding workshops
+certifications,TRUE,Certification: Tableau Desktop Specialist,Tableau,Online,2021,2021,Certified in dashboard design,Data storytelling skills,Completed practical assessment
+certifications,TRUE,Certification: SQL for Data Science,Coursera,Online,2020,2020,Learned relational database design,Proficient in SQL queries,Applied SQL in capstone project
+writings,TRUE,Blog Post,Data Science Blog,Online,2023,2023,Published article on reproducibility crisis,Focused on research workflows,Engaged with academic audience
+writings,TRUE,Article,Medium,Online,2022,2022,Wrote about using Leaflet in R,Created interactive crash map tutorial,Shared insights with data community
+misc,TRUE,Disclaimer,Fictional Resume,Online,2023,2023,Some positions are aspirational,Included for assignment purposes only,Do not consider as factual
